@@ -3,6 +3,8 @@
 
 This project, will deploy a static website to AWS using S3, CloudFront, and IAM.
 
+### CloudFront URL: http://d1d3kxcgnq48hm.cloudfront.net/index.html
+
 Following are files included that are part of Static Website: 
 
 * _**index.html**_ - The Index document for the website.
