@@ -19,3 +19,12 @@ Steps:
 
 2. Uploaded Website files
 ![Uploaded Website files](screenshots/2-Uploaded-files.png)
+
+3. Enable S3 Bucket to support static website hosting
+![Enable-Bucket-Hosting](screenshots/3-Enable-Bucket-Hosting.png)
+
+4. Set IAM Bucket Policy to make bucket content publicly accessible
+![IAM-Policy-Public-Bucket](screenshots/4-IAM-Policy-Public-Bucket.png)
+
+5. Configure CloudFront to retrieve and distribute website files
+![CloudFront-Enablement](screenshots/5-CloudFront-Enablement.png)
